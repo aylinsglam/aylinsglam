@@ -7,7 +7,7 @@
 
  I'm currently working at Dogus Technology as an international business development intern. <br>
  I am an Industrial Engineering student at Galatasaray Universtity.<br><br>
- <img align="center" src="https://github.com/aylinsglam/aylinsglam/blob/main/l2.png"  width="100" />
+ <img style="margin-left:30px" align="center" src="https://github.com/aylinsglam/aylinsglam/blob/main/l2.png"  width="100" />
  <br>With my 5 women student friends, we run "Dönüşüm Elçileri Project" that aims to increase awareness of children about climate crisis and recycling. You can follow our instagram account:  
 <a href="https://medium.com/@aylinsaglam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /></a>
  <br>
