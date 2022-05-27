@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p>
+<p align="center">
  I'm currently working at Dogus Technology as an international business development intern. <br>
  I am an Industrial Engineering student at Galatasaray Universtity.<br><br>
  <a href="https://www.linkedin.com/company/d%C3%B6n%C3%BC%C5%9F%C3%BCm-el%C3%A7ileri/" ><img align="center" src="https://github.com/aylinsglam/aylinsglam/blob/main/l2.png"  width="100" /></a>
