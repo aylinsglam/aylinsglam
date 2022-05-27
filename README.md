@@ -7,7 +7,7 @@
 
  I'm currently working at Dogus Technology as an international business development intern. <br>
  I am an Industrial Engineering student at Galatasaray Universtity.<br><br>
- <img align="center" src="https://github.com/aylinsglam/aylinsglam/blob/main/l2.png" height="30" width="30" />
+ <img align="center" src="https://github.com/aylinsglam/aylinsglam/blob/main/l2.png"  width="100" />
 
  I'm in the <a href="https://sisterslab.co/">SistersLab</a> community.<br>
 
